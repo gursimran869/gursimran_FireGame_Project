@@ -1,0 +1,17 @@
+D:\Feb-Mar\gursimran_FireGame_Project\gursimran_FireGame_ProjectTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\Feb-Mar\gursimran_FireGame_Project\gursimran_FireGame_ProjectTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\Feb-Mar\gursimran_FireGame_Project\gursimran_FireGame_ProjectTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\Feb-Mar\gursimran_FireGame_Project\gursimran_FireGame_ProjectTests\bin\Debug\gursimran_FireGame_ProjectTests.dll
+D:\Feb-Mar\gursimran_FireGame_Project\gursimran_FireGame_ProjectTests\bin\Debug\gursimran_FireGame_ProjectTests.pdb
+D:\Feb-Mar\gursimran_FireGame_Project\gursimran_FireGame_ProjectTests\bin\Debug\gursimran_FireGame_Project.exe
+D:\Feb-Mar\gursimran_FireGame_Project\gursimran_FireGame_ProjectTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\Feb-Mar\gursimran_FireGame_Project\gursimran_FireGame_ProjectTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\Feb-Mar\gursimran_FireGame_Project\gursimran_FireGame_ProjectTests\bin\Debug\gursimran_FireGame_Project.pdb
+D:\Feb-Mar\gursimran_FireGame_Project\gursimran_FireGame_ProjectTests\bin\Debug\gursimran_FireGame_Project.exe.config
+D:\Feb-Mar\gursimran_FireGame_Project\gursimran_FireGame_ProjectTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\Feb-Mar\gursimran_FireGame_Project\gursimran_FireGame_ProjectTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\Feb-Mar\gursimran_FireGame_Project\gursimran_FireGame_ProjectTests\obj\Debug\gursimran_FireGame_ProjectTests.csprojAssemblyReference.cache
+D:\Feb-Mar\gursimran_FireGame_Project\gursimran_FireGame_ProjectTests\obj\Debug\gursimran_FireGame_ProjectTests.csproj.CoreCompileInputs.cache
+D:\Feb-Mar\gursimran_FireGame_Project\gursimran_FireGame_ProjectTests\obj\Debug\gursimran_FireGame_ProjectTests.csproj.CopyComplete
+D:\Feb-Mar\gursimran_FireGame_Project\gursimran_FireGame_ProjectTests\obj\Debug\gursimran_FireGame_ProjectTests.dll
+D:\Feb-Mar\gursimran_FireGame_Project\gursimran_FireGame_ProjectTests\obj\Debug\gursimran_FireGame_ProjectTests.pdb
